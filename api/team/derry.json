@@ -1,7 +1,1417 @@
-{
-  "team": "Derry City",
-  "league": "Ireland Premier Division",
-  "source": "livescore",
-  "id": "derry-city"
-}
+
+  {
+    "team": "Arsenal",
+    "country": "England",
+    "short": "ARS",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/arsenal.png",
+    "id": "arsenal"
+  },
+  {
+    "team": "Aston Villa",
+    "country": "England",
+    "short": "AVL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/aston-villa.png",
+    "id": "aston-villa"
+  },
+  {
+    "team": "Bournemouth",
+    "country": "England",
+    "short": "BOU",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/bournemouth.png",
+    "id": "bournemouth"
+  },
+  {
+    "team": "Brentford",
+    "country": "England",
+    "short": "BRE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/brentford.png",
+    "id": "brentford"
+  },
+  {
+    "team": "Brighton & Hove Albion",
+    "country": "England",
+    "short": "BHA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/brighton.png",
+    "id": "brighton"
+  },
+  {
+    "team": "Chelsea",
+    "country": "England",
+    "short": "CHE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/chelsea.png",
+    "id": "chelsea"
+  },
+  {
+    "team": "Crystal Palace",
+    "country": "England",
+    "short": "CRY",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/crystal-palace.png",
+    "id": "crystal-palace"
+  },
+  {
+    "team": "Everton",
+    "country": "England",
+    "short": "EVE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/everton.png",
+    "id": "everton"
+  },
+  {
+    "team": "Fulham",
+    "country": "England",
+    "short": "FUL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/fulham.png",
+    "id": "fulham"
+  },
+  {
+    "team": "Ipswich Town",
+    "country": "England",
+    "short": "IPS",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/ipswich-town.png",
+    "id": "ipswich-town"
+  },
+  {
+    "team": "Leicester City",
+    "country": "England",
+    "short": "LEI",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/leicester-city.png",
+    "id": "leicester-city"
+  },
+  {
+    "team": "Liverpool",
+    "country": "England",
+    "short": "LIV",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/liverpool.png",
+    "id": "liverpool"
+  },
+  {
+    "team": "Manchester City",
+    "country": "England",
+    "short": "MCI",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/manchester-city.png",
+    "id": "manchester-city"
+  },
+  {
+    "team": "Manchester United",
+    "country": "England",
+    "short": "MUN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/manchester-united.png",
+    "id": "manchester-united"
+  },
+  {
+    "team": "Newcastle United",
+    "country": "England",
+    "short": "NEW",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/newcastle-united.png",
+    "id": "newcastle-united"
+  },
+  {
+    "team": "Nottingham Forest",
+    "country": "England",
+    "short": "NFO",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/nottingham-forest.png",
+    "id": "nottingham-forest"
+  },
+  {
+    "team": "Southampton",
+    "country": "England",
+    "short": "SOU",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/southampton.png",
+    "id": "southampton"
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "country": "England",
+    "short": "TOT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/tottenham-hotspur.png",
+    "id": "tottenham-hotspur"
+  },
+  {
+    "team": "West Ham United",
+    "country": "England",
+    "short": "WHU",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/west-ham-united.png",
+    "id": "west-ham-united"
+  },
+  {
+    "team": "Wolverhampton Wanderers",
+    "country": "England",
+    "short": "WOL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/wolves.png",
+    "id": "wolves"
+  }
+[
+  {
+    "team": "Birmingham City",
+    "country": "England",
+    "short": "BIR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/birmingham-city.png",
+    "id": "birmingham-city"
+  },
+  {
+    "team": "Blackburn Rovers",
+    "country": "England",
+    "short": "BLB",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/blackburn-rovers.png",
+    "id": "blackburn-rovers"
+  },
+  {
+    "team": "Bristol City",
+    "country": "England",
+    "short": "BRC",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/bristol-city.png",
+    "id": "bristol-city"
+  },
+  {
+    "team": "Cardiff City",
+    "country": "Wales",
+    "short": "CAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/cardiff-city.png",
+    "id": "cardiff-city"
+  },
+  {
+    "team": "Coventry City",
+    "country": "England",
+    "short": "COV",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/coventry-city.png",
+    "id": "coventry-city"
+  },
+  {
+    "team": "Derby County",
+    "country": "England",
+    "short": "DER",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/derby-county.png",
+    "id": "derby-county"
+  },
+  {
+    "team": "Hull City",
+    "country": "England",
+    "short": "HUL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/hull-city.png",
+    "id": "hull-city"
+  },
+  {
+    "team": "Leeds United",
+    "country": "England",
+    "short": "LEE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/leeds-united.png",
+    "id": "leeds-united"
+  },
+  {
+    "team": "Middlesbrough",
+    "country": "England",
+    "short": "MID",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/middlesbrough.png",
+    "id": "middlesbrough"
+  },
+  {
+    "team": "Millwall",
+    "country": "England",
+    "short": "MIL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/millwall.png",
+    "id": "millwall"
+  },
+  {
+    "team": "Norwich City",
+    "country": "England",
+    "short": "NOR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/norwich-city.png",
+    "id": "norwich-city"
+  },
+  {
+    "team": "Plymouth Argyle",
+    "country": "England",
+    "short": "PLY",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/plymouth-argyle.png",
+    "id": "plymouth-argyle"
+  },
+  {
+    "team": "Portsmouth",
+    "country": "England",
+    "short": "POR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/portsmouth.png",
+    "id": "portsmouth"
+  },
+  {
+    "team": "Preston North End",
+    "country": "England",
+    "short": "PNE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/preston-north-end.png",
+    "id": "preston-north-end"
+  },
+  {
+    "team": "Queens Park Rangers",
+    "country": "England",
+    "short": "QPR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/qpr.png",
+    "id": "qpr"
+  },
+  {
+    "team": "Sheffield United",
+    "country": "England",
+    "short": "SHU",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/sheffield-united.png",
+    "id": "sheffield-united"
+  },
+  {
+    "team": "Sheffield Wednesday",
+    "country": "England",
+    "short": "SHW",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/sheffield-wednesday.png",
+    "id": "sheffield-wednesday"
+  },
+  {
+    "team": "Stoke City",
+    "country": "England",
+    "short": "STK",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/stoke-city.png",
+    "id": "stoke-city"
+  },
+  {
+    "team": "Sunderland",
+    "country": "England",
+    "short": "SUN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/sunderland.png",
+    "id": "sunderland"
+  },
+  {
+    "team": "Swansea City",
+    "country": "Wales",
+    "short": "SWA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/swansea-city.png",
+    "id": "swansea-city"
+  },
+  {
+    "team": "Watford",
+    "country": "England",
+    "short": "WAT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/watford.png",
+    "id": "watford"
+  },
+  {
+    "team": "West Bromwich Albion",
+    "country": "England",
+    "short": "WBA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/west-brom.png",
+    "id": "west-brom"
+  },
+  {
+    "team": "Wigan Athletic",
+    "country": "England",
+    "short": "WIG",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/wigan-athletic.png",
+    "id": "wigan-athletic"
+  }
+]
+
+[
+  {
+    "team": "Barnsley",
+    "country": "England",
+    "short": "BAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/barnsley.png",
+    "id": "barnsley"
+  },
+  {
+    "team": "Blackpool",
+    "country": "England",
+    "short": "BPL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/blackpool.png",
+    "id": "blackpool"
+  },
+  {
+    "team": "Bolton Wanderers",
+    "country": "England",
+    "short": "BOL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/bolton-wanderers.png",
+    "id": "bolton-wanderers"
+  },
+  {
+    "team": "Bristol Rovers",
+    "country": "England",
+    "short": "BRR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/bristol-rovers.png",
+    "id": "bristol-rovers"
+  },
+  {
+    "team": "Burton Albion",
+    "country": "England",
+    "short": "BUR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/burton-albion.png",
+    "id": "burton-albion"
+  },
+  {
+    "team": "Cambridge United",
+    "country": "England",
+    "short": "CAM",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/cambridge-united.png",
+    "id": "cambridge-united"
+  },
+  {
+    "team": "Carlisle United",
+    "country": "England",
+    "short": "CAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/carlisle-united.png",
+    "id": "carlisle-united"
+  },
+  {
+    "team": "Charlton Athletic",
+    "country": "England",
+    "short": "CHA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/charlton-athletic.png",
+    "id": "charlton-athletic"
+  },
+  {
+    "team": "Cheltenham Town",
+    "country": "England",
+    "short": "CHE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/cheltenham-town.png",
+    "id": "cheltenham-town"
+  },
+  {
+    "team": "Colchester United",
+    "country": "England",
+    "short": "COL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/colchester-united.png",
+    "id": "colchester-united"
+  },
+  {
+    "team": "Exeter City",
+    "country": "England",
+    "short": "EXE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/exeter-city.png",
+    "id": "exeter-city"
+  },
+  {
+    "team": "Fleetwood Town",
+    "country": "England",
+    "short": "FLE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/fleetwood-town.png",
+    "id": "fleetwood-town"
+  },
+  {
+    "team": "Leyton Orient",
+    "country": "England",
+    "short": "LEY",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/leyton-orient.png",
+    "id": "leyton-orient"
+  },
+  {
+    "team": "Lincoln City",
+    "country": "England",
+    "short": "LIN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/lincoln-city.png",
+    "id": "lincoln-city"
+  },
+  {
+    "team": "Northampton Town",
+    "country": "England",
+    "short": "NOR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/northampton-town.png",
+    "id": "northampton-town"
+  },
+  {
+    "team": "Oxford United",
+    "country": "England",
+    "short": "OXF",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/oxford-united.png",
+    "id": "oxford-united"
+  },
+  {
+    "team": "Peterborough United",
+    "country": "England",
+    "short": "PET",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/peterborough-united.png",
+    "id": "peterborough-united"
+  },
+  {
+    "team": "Port Vale",
+    "country": "England",
+    "short": "PVA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/port-vale.png",
+    "id": "port-vale"
+  },
+  {
+    "team": "Reading",
+    "country": "England",
+    "short": "REA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/reading.png",
+    "id": "reading"
+  },
+  {
+    "team": "Shrewsbury Town",
+    "country": "England",
+    "short": "SHR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/shrewsbury-town.png",
+    "id": "shrewsbury-town"
+  },
+  {
+    "team": "Stevenage",
+    "country": "England",
+    "short": "STE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/stevenage.png",
+    "id": "stevenage"
+  },
+  {
+    "team": "Walsall",
+    "country": "England",
+    "short": "WAL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/walsall.png",
+    "id": "walsall"
+  },
+  {
+    "team": "Wycombe Wanderers",
+    "country": "England",
+    "short": "WYC",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/wycombe-wanderers.png",
+    "id": "wycombe-wanderers"
+  }
+]
+
+[
+  {
+    "team": "Accrington Stanley",
+    "country": "England",
+    "short": "ACC",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/accrington-stanley.png",
+    "id": "accrington-stanley"
+  },
+  {
+    "team": "AFC Wimbledon",
+    "country": "England",
+    "short": "WIM",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/afc-wimbledon.png",
+    "id": "afc-wimbledon"
+  },
+  {
+    "team": "Barrow",
+    "country": "England",
+    "short": "BAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/barrow.png",
+    "id": "barrow"
+  },
+  {
+    "team": "Bradford City",
+    "country": "England",
+    "short": "BRA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/bradford-city.png",
+    "id": "bradford-city"
+  },
+  {
+    "team": "Crawley Town",
+    "country": "England",
+    "short": "CRA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/crawley-town.png",
+    "id": "crawley-town"
+  },
+  {
+    "team": "Crewe Alexandra",
+    "country": "England",
+    "short": "CRE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/crewe-alexandra.png",
+    "id": "crewe-alexandra"
+  },
+  {
+    "team": "Doncaster Rovers",
+    "country": "England",
+    "short": "DON",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/doncaster-rovers.png",
+    "id": "doncaster-rovers"
+  },
+  {
+    "team": "Forest Green Rovers",
+    "country": "England",
+    "short": "FGR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/forest-green-rovers.png",
+    "id": "forest-green-rovers"
+  },
+  {
+    "team": "Gillingham",
+    "country": "England",
+    "short": "GIL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/gillingham.png",
+    "id": "gillingham"
+  },
+  {
+    "team": "Grimsby Town",
+    "country": "England",
+    "short": "GRI",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/grimsby-town.png",
+    "id": "grimsby-town"
+  },
+  {
+    "team": "Harrogate Town",
+    "country": "England",
+    "short": "HAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/harrogate-town.png",
+    "id": "harrogate-town"
+  },
+  {
+    "team": "Mansfield Town",
+    "country": "England",
+    "short": "MAN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/mansfield-town.png",
+    "id": "mansfield-town"
+  },
+  {
+    "team": "Milton Keynes Dons",
+    "country": "England",
+    "short": "MKD",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/mk-dons.png",
+    "id": "mk-dons"
+  },
+  {
+    "team": "Morecambe",
+    "country": "England",
+    "short": "MOR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/morecambe.png",
+    "id": "morecambe"
+  },
+  {
+    "team": "Newport County",
+    "country": "Wales",
+    "short": "NEW",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/newport-county.png",
+    "id": "newport-county"
+  },
+  {
+    "team": "Notts County",
+    "country": "England",
+    "short": "NOT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/notts-county.png",
+    "id": "notts-county"
+  },
+  {
+    "team": "Salford City",
+    "country": "England",
+    "short": "SAL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/salford-city.png",
+    "id": "salford-city"
+  },
+  {
+    "team": "Stockport County",
+    "country": "England",
+    "short": "STO",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/stockport-county.png",
+    "id": "stockport-county"
+  },
+  {
+    "team": "Sutton United",
+    "country": "England",
+    "short": "SUT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/sutton-united.png",
+    "id": "sutton-united"
+  },
+  {
+    "team": "Swindon Town",
+    "country": "England",
+    "short": "SWI",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/swindon-town.png",
+    "id": "swindon-town"
+  },
+  {
+    "team": "Tranmere Rovers",
+    "country": "England",
+    "short": "TRA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/tranmere-rovers.png",
+    "id": "tranmere-rovers"
+  },
+  {
+    "team": "Wrexham",
+    "country": "Wales",
+    "short": "WRE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/wrexham.png",
+    "id": "wrexham"
+  },
+  {
+    "team": "Yeovil Town",
+    "country": "England",
+    "short": "YEO",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/yeovil-town.png",
+    "id": "yeovil-town"
+  }
+
+  [
+  {
+    "team": "Aldershot Town",
+    "country": "England",
+    "short": "ALD",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/aldershot-town.png",
+    "id": "aldershot-town"
+  },
+  {
+    "team": "Altrincham",
+    "country": "England",
+    "short": "ALT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/altrincham.png",
+    "id": "altrincham"
+  },
+  {
+    "team": "Barnet",
+    "country": "England",
+    "short": "BAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/barnet.png",
+    "id": "barnet"
+  },
+  {
+    "team": "Boreham Wood",
+    "country": "England",
+    "short": "BOR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/boreham-wood.png",
+    "id": "boreham-wood"
+  },
+  {
+    "team": "Bromley",
+    "country": "England",
+    "short": "BRO",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/bromley.png",
+    "id": "bromley"
+  },
+  {
+    "team": "Chesterfield",
+    "country": "England",
+    "short": "CHE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/chesterfield.png",
+    "id": "chesterfield"
+  },
+  {
+    "team": "Dag & Red",
+    "country": "England",
+    "short": "DAG",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/dagenham-redbridge.png",
+    "id": "dagenham-redbridge"
+  },
+  {
+    "team": "Eastleigh",
+    "country": "England",
+    "short": "EAS",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/eastleigh.png",
+    "id": "eastleigh"
+  },
+  {
+    "team": "Ebbsfleet United",
+    "country": "England",
+    "short": "EBB",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/ebbsfleet-united.png",
+    "id": "ebbsfleet-united"
+  },
+  {
+    "team": "FC Halifax Town",
+    "country": "England",
+    "short": "HAL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/fc-halifax-town.png",
+    "id": "fc-halifax-town"
+  },
+  {
+    "team": "Gateshead",
+    "country": "England",
+    "short": "GAT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/gateshead.png",
+    "id": "gateshead"
+  },
+  {
+    "team": "Hartlepool United",
+    "country": "England",
+    "short": "HAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/hartlepool-united.png",
+    "id": "hartlepool-united"
+  },
+  {
+    "team": "Kidderminster Harriers",
+    "country": "England",
+    "short": "KID",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/kidderminster-harriers.png",
+    "id": "kidderminster-harriers"
+  },
+  {
+    "team": "Maidenhead United",
+    "country": "England",
+    "short": "MAI",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/maidenhead-united.png",
+    "id": "maidenhead-united"
+  },
+  {
+    "team": "Oldham Athletic",
+    "country": "England",
+    "short": "OLD",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/oldham-athletic.png",
+    "id": "oldham-athletic"
+  },
+  {
+    "team": "Oxford City",
+    "country": "England",
+    "short": "OXC",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/oxford-city.png",
+    "id": "oxford-city"
+  },
+  {
+    "team": "Rochdale",
+    "country": "England",
+    "short": "ROC",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/rochdale.png",
+    "id": "rochdale"
+  },
+  {
+    "team": "Solihull Moors",
+    "country": "England",
+    "short": "SOL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/solihull-moors.png",
+    "id": "solihull-moors"
+  },
+  {
+    "team": "Southend United",
+    "country": "England",
+    "short": "SOU",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/southend-united.png",
+    "id": "southend-united"
+  },
+  {
+    "team": "Wealdstone",
+    "country": "England",
+    "short": "WEA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/wealdstone.png",
+    "id": "wealdstone"
+  },
+  {
+    "team": "Woking",
+    "country": "England",
+    "short": "WOK",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/woking.png",
+    "id": "woking"
+  },
+  {
+    "team": "York City",
+    "country": "England",
+    "short": "YOR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/york-city.png",
+    "id": "york-city"
+  },
+
+  [
+  {
+    "team": "AFC Fylde",
+    "country": "England",
+    "short": "FYD",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/afc-fylde.png",
+    "id": "afc-fylde"
+  },
+  {
+    "team": "Alfreton Town",
+    "country": "England",
+    "short": "ALF",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/alfreton-town.png",
+    "id": "alfreton-town"
+  },
+  {
+    "team": "Banbury United",
+    "country": "England",
+    "short": "BAN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/banbury-united.png",
+    "id": "banbury-united"
+  },
+  {
+    "team": "Bishop's Stortford",
+    "country": "England",
+    "short": "BIS",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/bishops-stortford.png",
+    "id": "bishops-stortford"
+  },
+  {
+    "team": "Boston United",
+    "country": "England",
+    "short": "BOS",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/boston-united.png",
+    "id": "boston-united"
+  },
+  {
+    "team": "Brackley Town",
+    "country": "England",
+    "short": "BRA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/brackley-town.png",
+    "id": "brackley-town"
+  },
+  {
+    "team": "Buxton",
+    "country": "England",
+    "short": "BUX",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/buxton.png",
+    "id": "buxton"
+  },
+  {
+    "team": "Chorley",
+    "country": "England",
+    "short": "CHO",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/chorley.png",
+    "id": "chorley"
+  },
+  {
+    "team": "Curzon Ashton",
+    "country": "England",
+    "short": "CUR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/curzon-ashton.png",
+    "id": "curzon-ashton"
+  },
+  {
+    "team": "Darlington",
+    "country": "England",
+    "short": "DAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/darlington.png",
+    "id": "darlington"
+  },
+  {
+    "team": "Farsley Celtic",
+    "country": "England",
+    "short": "FAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/farsley-celtic.png",
+    "id": "farsley-celtic"
+  },
+  {
+    "team": "Gloucester City",
+    "country": "England",
+    "short": "GLO",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/gloucester-city.png",
+    "id": "gloucester-city"
+  },
+  {
+    "team": "Hereford",
+    "country": "England",
+    "short": "HER",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/hereford.png",
+    "id": "hereford"
+  },
+  {
+    "team": "King's Lynn Town",
+    "country": "England",
+    "short": "KIN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/kings-lynn-town.png",
+    "id": "kings-lynn-town"
+  },
+  {
+    "team": "Peterborough Sports",
+    "country": "England",
+    "short": "PES",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/peterborough-sports.png",
+    "id": "peterborough-sports"
+  },
+  {
+    "team": "Scarborough Athletic",
+    "country": "England",
+    "short": "SCA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/scarborough-athletic.png",
+    "id": "scarborough-athletic"
+  },
+  {
+    "team": "Scunthorpe United",
+    "country": "England",
+    "short": "SCU",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/scunthorpe-united.png",
+    "id": "scunthorpe-united"
+  },
+  {
+    "team": "Southport",
+    "country": "England",
+    "short": "SOU",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/southport.png",
+    "id": "southport"
+  },
+  {
+    "team": "Spennymoor Town",
+    "country": "England",
+    "short": "SPE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/spennymoor-town.png",
+    "id": "spennymoor-town"
+  },
+  {
+    "team": "Tamworth",
+    "country": "England",
+    "short": "TAM",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/tamworth.png",
+    "id": "tamworth"
+  },
+  {
+    "team": "Warrington Town",
+    "country": "England",
+    "short": "WAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/warrington-town.png",
+    "id": "warrington-town"
+  }
+]
+
+ [
+  {
+    "team": "Aveley",
+    "country": "England",
+    "short": "AVE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/aveley.png",
+    "id": "aveley"
+  },
+  {
+    "team": "Bath City",
+    "country": "England",
+    "short": "BAT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/bath-city.png",
+    "id": "bath-city"
+  },
+  {
+    "team": "Braintree Town",
+    "country": "England",
+    "short": "BRA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/braintree-town.png",
+    "id": "braintree-town"
+  },
+  {
+    "team": "Chelmsford City",
+    "country": "England",
+    "short": "CHE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/chelmsford-city.png",
+    "id": "chelmsford-city"
+  },
+  {
+    "team": "Chippenham Town",
+    "country": "England",
+    "short": "CHI",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/chippenham-town.png",
+    "id": "chippenham-town"
+  },
+  {
+    "team": "Dartford",
+    "country": "England",
+    "short": "DAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/dartford.png",
+    "id": "dartford"
+  },
+  {
+    "team": "Dover Athletic",
+    "country": "England",
+    "short": "DOV",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/dover-athletic.png",
+    "id": "dover-athletic"
+  },
+  {
+    "team": "Eastbourne Borough",
+    "country": "England",
+    "short": "EAS",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/eastbourne-borough.png",
+    "id": "eastbourne-borough"
+  },
+  {
+    "team": "Farnborough",
+    "country": "England",
+    "short": "FAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/farnborough.png",
+    "id": "farnborough"
+  },
+  {
+    "team": "Hampton & Richmond",
+    "country": "England",
+    "short": "HAM",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/hampton-richmond.png",
+    "id": "hampton-richmond"
+  },
+  {
+    "team": "Hemel Hempstead Town",
+    "country": "England",
+    "short": "HEM",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/hemel-hempstead-town.png",
+    "id": "hemel-hempstead-town"
+  },
+  {
+    "team": "Maidstone United",
+    "country": "England",
+    "short": "MAI",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/maidstone-united.png",
+    "id": "maidstone-united"
+  },
+  {
+    "team": "Slough Town",
+    "country": "England",
+    "short": "SLO",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/slough-town.png",
+    "id": "slough-town"
+  },
+  {
+    "team": "St Albans City",
+    "country": "England",
+    "short": "STA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/st-albans-city.png",
+    "id": "st-albans-city"
+  },
+  {
+    "team": "Taunton Town",
+    "country": "England",
+    "short": "TAU",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/taunton-town.png",
+    "id": "taunton-town"
+  },
+  {
+    "team": "Tonbridge Angels",
+    "country": "England",
+    "short": "TON",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/tonbridge-angels.png",
+    "id": "tonbridge-angels"
+  },
+  {
+    "team": "Torquay United",
+    "country": "England",
+    "short": "TOR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/torquay-united.png",
+    "id": "torquay-united"
+  },
+  {
+    "team": "Truro City",
+    "country": "England",
+    "short": "TRU",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/truro-city.png",
+    "id": "truro-city"
+  },
+  {
+    "team": "Welling United",
+    "country": "England",
+    "short": "WEL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/welling-united.png",
+    "id": "welling-united"
+  },
+  {
+    "team": "Weston-super-Mare",
+    "country": "England",
+    "short": "WES",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/weston-super-mare.png",
+    "id": "weston-super-mare"
+  },
+  {
+    "team": "Worthing",
+    "country": "England",
+    "short": "WOR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/worthing.png",
+    "id": "worthing"
+  },
+
+   [
+  {
+    "team": "Aberdeen",
+    "country": "Scotland",
+    "short": "ABE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/aberdeen.png",
+    "id": "aberdeen"
+  },
+  {
+    "team": "Celtic",
+    "country": "Scotland",
+    "short": "CEL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/celtic.png",
+    "id": "celtic"
+  },
+  {
+    "team": "Dundee",
+    "country": "Scotland",
+    "short": "DUN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/dundee.png",
+    "id": "dundee"
+  },
+  {
+    "team": "Dundee United",
+    "country": "Scotland",
+    "short": "DUT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/dundee-united.png",
+    "id": "dundee-united"
+  },
+  {
+    "team": "Heart of Midlothian",
+    "country": "Scotland",
+    "short": "HEA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/hearts.png",
+    "id": "hearts"
+  },
+  {
+    "team": "Hibernian",
+    "country": "Scotland",
+    "short": "HIB",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/hibernian.png",
+    "id": "hibernian"
+  },
+  {
+    "team": "Kilmarnock",
+    "country": "Scotland",
+    "short": "KIL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/kilmarnock.png",
+    "id": "kilmarnock"
+  },
+  {
+    "team": "Livingston",
+    "country": "Scotland",
+    "short": "LIV",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/livingston.png",
+    "id": "livingston"
+  },
+  {
+    "team": "Motherwell",
+    "country": "Scotland",
+    "short": "MOT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/motherwell.png",
+    "id": "motherwell"
+  },
+  {
+    "team": "Rangers",
+    "country": "Scotland",
+    "short": "RAN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/rangers.png",
+    "id": "rangers"
+  },
+  {
+    "team": "Ross County",
+    "country": "Scotland",
+    "short": "ROS",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/ross-county.png",
+    "id": "ross-county"
+  },
+  {
+    "team": "St Johnstone",
+    "country": "Scotland",
+    "short": "STJ",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/st-johnstone.png",
+    "id": "st-johnstone"
+  },
+  {
+    "team": "St Mirren",
+    "country": "Scotland",
+    "short": "STM",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/st-mirren.png",
+    "id": "st-mirren"
+  },
+
+     [
+  {
+    "team": "Airdrieonians",
+    "country": "Scotland",
+    "short": "AIR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/airdrieonians.png",
+    "id": "airdrieonians"
+  },
+  {
+    "team": "Arbroath",
+    "country": "Scotland",
+    "short": "ARB",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/arbroath.png",
+    "id": "arbroath"
+  },
+  {
+    "team": "Ayr United",
+    "country": "Scotland",
+    "short": "AYR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/ayr-united.png",
+    "id": "ayr-united"
+  },
+  {
+    "team": "Dunfermline Athletic",
+    "country": "Scotland",
+    "short": "DUN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/dunfermline.png",
+    "id": "dunfermline"
+  },
+  {
+    "team": "Greenock Morton",
+    "country": "Scotland",
+    "short": "MOR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/morton.png",
+    "id": "morton"
+  },
+  {
+    "team": "Inverness Caledonian Thistle",
+    "country": "Scotland",
+    "short": "ICT",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/inverness.png",
+    "id": "inverness"
+  },
+  {
+    "team": "Partick Thistle",
+    "country": "Scotland",
+    "short": "PAR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/partick-thistle.png",
+    "id": "partick-thistle"
+  },
+  {
+    "team": "Queen's Park",
+    "country": "Scotland",
+    "short": "QPK",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/queens-park.png",
+    "id": "queens-park"
+  },
+  {
+    "team": "Raith Rovers",
+    "country": "Scotland",
+    "short": "RAI",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/raith-rovers.png",
+    "id": "raith-rovers"
+  },
+  {
+    "team": "Stirling Albion",
+    "country": "Scotland",
+    "short": "STI",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/stirling-albion.png",
+    "id": "stirling-albion"
+  },
+
+       [
+  {
+    "team": "Alloa Athletic",
+    "country": "Scotland",
+    "short": "ALL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/alloa-athletic.png",
+    "id": "alloa-athletic"
+  },
+  {
+    "team": "Annan Athletic",
+    "country": "Scotland",
+    "short": "ANN",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/annan-athletic.png",
+    "id": "annan-athletic"
+  },
+  {
+    "team": "Cove Rangers",
+    "country": "Scotland",
+    "short": "COV",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/cove-rangers.png",
+    "id": "cove-rangers"
+  },
+  {
+    "team": "Edinburgh City",
+    "country": "Scotland",
+    "short": "EDC",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/edinburgh-city.png",
+    "id": "edinburgh-city"
+  },
+  {
+    "team": "Falkirk",
+    "country": "Scotland",
+    "short": "FAL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/falkirk.png",
+    "id": "falkirk"
+  },
+  {
+    "team": "Hamilton Academical",
+    "country": "Scotland",
+    "short": "HAM",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/hamilton.png",
+    "id": "hamilton"
+  },
+  {
+    "team": "Kelty Hearts",
+    "country": "Scotland",
+    "short": "KEL",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/kelty-hearts.png",
+    "id": "kelty-hearts"
+  },
+  {
+    "team": "Montrose",
+    "country": "Scotland",
+    "short": "MON",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/montrose.png",
+    "id": "montrose"
+  },
+  {
+    "team": "Queen of the South",
+    "country": "Scotland",
+    "short": "QOS",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/queen-of-the-south.png",
+    "id": "queen-of-the-south"
+  },
+  {
+    "team": "Stenhousemuir",
+    "country": "Scotland",
+    "short": "STE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/stenhousemuir.png",
+    "id": "stenhousemuir"
+  },
+
+
+    [
+  {
+    "team": "Bonnyrigg Rose",
+    "country": "Scotland",
+    "short": "BON",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/bonnyrigg-rose.png",
+    "id": "bonnyrigg-rose"
+  },
+  {
+    "team": "Clyde",
+    "country": "Scotland",
+    "short": "CLY",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/clyde.png",
+    "id": "clyde"
+  },
+  {
+    "team": "Dumbarton",
+    "country": "Scotland",
+    "short": "DUM",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/dumbarton.png",
+    "id": "dumbarton"
+  },
+  {
+    "team": "East Fife",
+    "country": "Scotland",
+    "short": "EIF",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/east-fife.png",
+    "id": "east-fife"
+  },
+  {
+    "team": "Elgin City",
+    "country": "Scotland",
+    "short": "ELG",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/elgin-city.png",
+    "id": "elgin-city"
+  },
+  {
+    "team": "Forfar Athletic",
+    "country": "Scotland",
+    "short": "FOR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/forfar-athletic.png",
+    "id": "forfar-athletic"
+  },
+  {
+    "team": "Peterhead",
+    "country": "Scotland",
+    "short": "PET",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/peterhead.png",
+    "id": "peterhead"
+  },
+  {
+    "team": "Spartans",
+    "country": "Scotland",
+    "short": "SPA",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/spartans.png",
+    "id": "spartans"
+  },
+  {
+    "team": "Stenhousemuir",
+    "country": "Scotland",
+    "short": "STE",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/stenhousemuir.png",
+    "id": "stenhousemuir"
+  },
+  {
+    "team": "Stranraer",
+    "country": "Scotland",
+    "short": "STR",
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/stranraer.png",
+    "id": "stranraer"
+  },
+
+
+    
+
+
+
+
+   
+
+
+    
+
+    
+
+  
+
+
+
+  
+
 
