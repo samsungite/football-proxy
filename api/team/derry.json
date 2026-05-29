@@ -1,4 +1,10 @@
-
+  {
+    "team": "Dundalk",
+    "country": "Scotand",
+    "short": "Dun,
+    "badge": "https://raw.githubusercontent.com/samsungite/football-proxy/main/badges/arsenal.png",
+    "id": "dundalk"
+  },
   {
     "team": "Arsenal",
     "country": "England",
